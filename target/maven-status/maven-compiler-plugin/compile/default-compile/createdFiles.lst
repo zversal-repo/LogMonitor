@@ -1,0 +1,7 @@
+com\quodd\parsers\CronJobParser.class
+com\quodd\application\Main.class
+com\quodd\utils\LogFileHistoryManager.class
+com\quodd\beans\Stats.class
+com\quodd\scheduler\FileParseScheduler.class
+com\quodd\utils\OutputManipulator.class
+com\quodd\parsers\LogParser.class
